@@ -13,7 +13,7 @@ Unless required by applicable law or agreed to in writing,
 software distributed under the License is distributed on an
 "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
 KIND, either express or implied.  See the License for the
-specific language governing permissions and limitations
+specific language governing permissions & limitations
 under the License.
 -->
 
@@ -46,7 +46,7 @@ A modern, enterprise-ready business intelligence web application.
 
 [**Why Superset?**](#why-superset) |
 [**Supported Databases**](#supported-databases) |
-[**Installation and Configuration**](#installation-and-configuration) |
+[**Installation & Configuration**](#installation-and-configuration) |
 [**Release Notes**](https://github.com/apache/superset/blob/master/RELEASING/README.md#release-notes-for-recent-releases) |
 [**Get Involved**](#get-involved) |
 [**Contributor Guide**](#contributor-guide) |
@@ -55,17 +55,17 @@ A modern, enterprise-ready business intelligence web application.
 
 ## Why Superset?
 
-Superset is a modern data exploration and data visualization platform. Superset can replace or augment proprietary business intelligence tools for many teams. Superset integrates well with a variety of data sources.
+Superset is a modern data exploration & data visualization platform. Superset can replace or augment proprietary business intelligence tools for many teams. Superset integrates well with a variety of data sources.
 
 Superset provides:
 
 - A **no-code interface** for building charts quickly
 - A powerful, web-based **SQL Editor** for advanced querying
-- A **lightweight semantic layer** for quickly defining custom dimensions and metrics
+- A **lightweight semantic layer** for quickly defining custom dimensions & metrics
 - Out of the box support for **nearly any SQL** database or data engine
 - A wide array of **beautiful visualizations** to showcase your data, ranging from simple bar charts to geospatial visualizations
 - Lightweight, configurable **caching layer** to help ease database load
-- Highly extensible **security roles and authentication** options
+- Highly extensible **security roles & authentication** options
 - An **API** for programmatic customization
 - A **cloud-native architecture** designed from the ground up for scale
 
